@@ -34,9 +34,7 @@ FleetFlow is a desktop application designed for efficient fleet and logistics ma
     source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`
     ```
 
-3.  **Install dependencies:**
-    This project primarily uses built-in Python libraries and Tkinter. No external `pip` dependencies are required.
-    (Note: `requirements.txt` is empty, indicating reliance on standard libraries and no external dependencies.)
+
 
 ## How to Run
 
