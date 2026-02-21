@@ -77,5 +77,4 @@ These commands directly use the Python from your virtual environment to start th
 ## Contributing
 Feel free to fork the repository, make improvements, and submit pull requests.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE). (Note: You may need to create a `LICENSE` file.)
+
