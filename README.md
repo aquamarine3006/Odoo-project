@@ -1,6 +1,9 @@
 # FleetFlow Application
 
 ## Overview
+
+* This application is created for an online hackathon.It is extremely buggy and has many issues.It is an abandoned project.
+
 FleetFlow is a desktop application designed for efficient fleet and logistics management. It provides modules for vehicle registry, trip dispatching, maintenance logging, driver registry, fuel logging, and comprehensive analytics and reports. The application is built using Python with the Tkinter library for the graphical user interface.
 
 ## Features
